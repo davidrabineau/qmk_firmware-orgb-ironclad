@@ -10,6 +10,9 @@
 #undef PRODUCT
 #define PRODUCT "Ironclad v3"
 
+#undef DEBOUNCE
+#define DEBOUNCE 5
+
 #define RGB_MATRIX_LED_PROCESS_LIMIT 20
 
 #define OPENRGB_LED_COUNT 109
