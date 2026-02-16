@@ -57,6 +57,7 @@ GENERIC_FEATURES = \
     VIA \
     VIRTSER \
     WPM \
+    OPENRGB \
 
 define HANDLE_GENERIC_FEATURE
     # $$(info "Processing: $1_ENABLE $2.c")
